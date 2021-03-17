@@ -1,4 +1,2 @@
-# Hello world!!
- Primeiro repositório versionado.
-
- Repositório criado para estudos.
+# Hello world!
+Repositório criado para estudos.
